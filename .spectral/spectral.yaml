@@ -64,7 +64,7 @@ reporter:
 
 
 
-projects:
+# projects:
     sample:
         project:
             name: sample
